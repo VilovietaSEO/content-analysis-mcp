@@ -1,0 +1,167 @@
+{
+  "analysis_mode": "website",
+  "collection_name": "dallas_plumbing_homepage",
+  "document_count": 17,
+  "website_quality_score": 0.765,
+  "component_scores": {
+    "content_coherence": 0.216,
+    "cta_effectiveness": 1.0,
+    "trust_building": 1.0,
+    "content_structure": 1.0
+  },
+  "coherence_analysis": {
+    "site_key_terms": [
+      "plumbing",
+      "dallas",
+      "service",
+      "milestone",
+      "https",
+      "water",
+      "repairs",
+      "call",
+      "plumbers",
+      "fast"
+    ],
+    "section_alignment": {
+      "hero_header": 0.3465346534653465,
+      "location_info": 0.19540229885057472,
+      "same_day_repairs": 0.2054794520547945,
+      "awards_social_proof": 0.13636363636363635,
+      "service_offerings": 0.2289156626506024,
+      "trust_building_homeowners": 0.23404255319148937,
+      "company_reliability": 0.23529411764705882,
+      "trusted_plumbers_nearby": 0.21359223300970873,
+      "five_star_reviews": 0.20588235294117646,
+      "same_day_repairs_cta": 0.3333333333333333,
+      "emergency_services": 0.2403846153846154,
+      "sewer_line_repair": 0.125,
+      "drain_cleaning": 0.15306122448979592,
+      "water_heater_services": 0.26582278481012656,
+      "faucet_repairs": 0.2028985507246377,
+      "toilet_repairs": 0.18840579710144928,
+      "choosing_trusted_plumber": 0.1694915254237288
+    },
+    "coherence_score": 0.21646498773188674
+  },
+  "cta_analysis": {
+    "cta_distribution": {
+      "hero_header": 2,
+      "location_info": 2,
+      "same_day_repairs": 2,
+      "awards_social_proof": 1,
+      "trust_building_homeowners": 2,
+      "company_reliability": 1,
+      "trusted_plumbers_nearby": 1,
+      "five_star_reviews": 2,
+      "same_day_repairs_cta": 2,
+      "emergency_services": 2,
+      "sewer_line_repair": 1,
+      "drain_cleaning": 1,
+      "water_heater_services": 2,
+      "faucet_repairs": 1,
+      "toilet_repairs": 1,
+      "choosing_trusted_plumber": 1
+    },
+    "cta_types": {
+      "call now": 6,
+      "link": 16,
+      "click here": 1,
+      "learn more": 1
+    },
+    "cta_density": 1.411764705882353,
+    "sections_with_ctas": 16
+  },
+  "trust_analysis": {
+    "trust_signals_found": {
+      "licensed": 4,
+      "guarantee": 5,
+      "trusted": 6,
+      "award": 1,
+      "professional": 3,
+      "expert": 9,
+      "insured": 2,
+      "reviews": 2
+    },
+    "trust_by_section": {
+      "hero_header": [
+        "licensed",
+        "guarantee"
+      ],
+      "same_day_repairs": [
+        "trusted"
+      ],
+      "awards_social_proof": [
+        "guarantee",
+        "award"
+      ],
+      "service_offerings": [
+        "professional",
+        "expert"
+      ],
+      "trust_building_homeowners": [
+        "licensed",
+        "trusted",
+        "guarantee",
+        "expert"
+      ],
+      "company_reliability": [
+        "licensed",
+        "insured",
+        "guarantee"
+      ],
+      "trusted_plumbers_nearby": [
+        "trusted"
+      ],
+      "five_star_reviews": [
+        "reviews"
+      ],
+      "same_day_repairs_cta": [
+        "trusted",
+        "expert"
+      ],
+      "emergency_services": [
+        "trusted",
+        "expert"
+      ],
+      "sewer_line_repair": [
+        "expert"
+      ],
+      "drain_cleaning": [
+        "professional",
+        "expert"
+      ],
+      "water_heater_services": [
+        "professional",
+        "expert"
+      ],
+      "faucet_repairs": [
+        "expert"
+      ],
+      "toilet_repairs": [
+        "expert"
+      ],
+      "choosing_trusted_plumber": [
+        "licensed",
+        "insured",
+        "trusted",
+        "reviews",
+        "guarantee"
+      ]
+    },
+    "trust_coverage": 0.9411764705882353
+  },
+  "content_structure": {
+    "content_types": {
+      "hero": 1,
+      "location_info": 2,
+      "value_proposition": 1,
+      "social_proof": 2,
+      "service_info": 7,
+      "trust_building": 3,
+      "conversion_focused": 1
+    },
+    "total_word_count": 2012,
+    "avg_section_length": 118
+  },
+  "analysis_timestamp": "2025-08-27T16:38:34.215769"
+}
